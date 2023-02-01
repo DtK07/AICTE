@@ -1,12 +1,13 @@
-# AICTE 
+# AICTE
 
-AICTE Project is more of a scraping project automated by the use of Selenium Web Browser and it is split into three segements,
-1. To retrieve data from dashboard page - https://facilities.aicte-india.org/dashboard/pages/dashboardaicte.php
-2. To retrieve data of list of colleges - https://facilities.aicte-india.org/dashboard/pages/angulardashboard.php#!/approved
-3. To retrieve details of the list of colleges collected above - https://facilities.aicte-india.org/dashboard/pages/angulardashboard.php#!/approved
+The AICTE Project is a web scraping initiative automated through the use of the Selenium Web Browser. It consists of three segments:
 
-Libraries used:
-1. Selenium
-2. Pandas
-3. Time
-4. RE
+Retrieval of data from the dashboard page at https://facilities.aicte-india.org/dashboard/pages/dashboardaicte.php
+Retrieval of data from a list of colleges at https://facilities.aicte-india.org/dashboard/pages/angulardashboard.php#!/approved
+Retrieval of details from the aforementioned list of colleges at https://facilities.aicte-india.org/dashboard/pages/angulardashboard.php#!/approved
+The following libraries are used in the implementation of this project:
+
+Selenium
+Pandas
+Time
+RE (regular expressions)
